@@ -3,7 +3,7 @@ lockfileVersion: 5.4
 specifiers:
   '@microsoft/api-extractor': 7.33.5
   '@rollup/plugin-node-resolve': 15.0.1
-  '@types/chai': 4.3.3
+  '@types/chai': 4.3.4
   '@types/mocha': 10.0.0
   '@types/node': 18.11.9
   '@typescript-eslint/eslint-plugin': 5.42.1
@@ -20,7 +20,7 @@ specifiers:
 devDependencies:
   '@microsoft/api-extractor': 7.33.5
   '@rollup/plugin-node-resolve': 15.0.1_rollup@3.2.5
-  '@types/chai': 4.3.3
+  '@types/chai': 4.3.4
   '@types/mocha': 10.0.0
   '@types/node': 18.11.9
   '@typescript-eslint/eslint-plugin': 5.42.1_2udltptbznfmezdozpdoa2aemq
@@ -468,8 +468,8 @@ packages:
     resolution: {integrity: sha512-ebDJ9b0e702Yr7pWgB0jzm+CX4Srzz8RcXtLJDJB+BSccqMa36uyH/zUsSYao5+BD1ytv3k3rPYCq4mAE1hsXA==}
     dev: true
 
-  /@types/chai/4.3.3:
-    resolution: {integrity: sha512-hC7OMnszpxhZPduX+m+nrx+uFoLkWOMiR4oa/AZF3MuSETYTZmFfJAHqZEM8MVlvfG7BEUcgvtwoCTxBp6hm3g==}
+  /@types/chai/4.3.4:
+    resolution: {integrity: sha512-KnRanxnpfpjUTqTCXslZSEdLfXExwgNxYPdiO2WGUj8+HDjFi8R3k5RVKPeSCzLjCcshCAtVO2QBbVuAV4kTnw==}
     dev: true
 
   /@types/estree/1.0.0:
