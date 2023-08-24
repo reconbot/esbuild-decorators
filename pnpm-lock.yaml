@@ -8,7 +8,7 @@ specifiers:
   '@types/node': 18.17.9
   '@typescript-eslint/eslint-plugin': 5.62.0
   '@typescript-eslint/parser': 5.62.0
-  chai: 4.3.7
+  chai: 4.3.8
   esbuild: 0.19.2
   esbuild-register: 3.4.2
   eslint: 8.47.0
@@ -25,7 +25,7 @@ devDependencies:
   '@types/node': 18.17.9
   '@typescript-eslint/eslint-plugin': 5.62.0_dhbftgwluaf2pse3xeibjbv2du
   '@typescript-eslint/parser': 5.62.0_qj3u6ezxe2airdzjq3nyoxe24m
-  chai: 4.3.7
+  chai: 4.3.8
   esbuild: 0.19.2
   esbuild-register: 3.4.2_esbuild@0.19.2
   eslint: 8.47.0
@@ -1072,8 +1072,8 @@ packages:
       redeyed: 2.1.1
     dev: true
 
-  /chai/4.3.7:
-    resolution: {integrity: sha512-HLnAzZ2iupm25PlN0xFreAlBA5zaBSv3og0DdeGA4Ar6h6rJ3A0rolRUKJhSF2V10GZKDgWF/VmAEsNWjCRB+A==}
+  /chai/4.3.8:
+    resolution: {integrity: sha512-vX4YvVVtxlfSZ2VecZgFUTU5qPCYsobVI2O9FmwEXBhDigYGQA6jRXCycIs1yJnnWbZ6/+a2zNIF5DfVCcJBFQ==}
     engines: {node: '>=4'}
     dependencies:
       assertion-error: 1.1.0
