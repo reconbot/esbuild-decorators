@@ -47,7 +47,7 @@
     "esbuild-register": "3.5.0",
     "eslint": "8.52.0",
     "mocha": "10.2.0",
-    "rollup": "3.29.4",
+    "rollup": "3.29.5",
     "@rollup/plugin-node-resolve": "15.2.3",
     "semantic-release": "22.0.5",
     "typescript": "5.2.2"
